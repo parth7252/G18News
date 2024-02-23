@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.g18news.app-merged_res-36:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.g18news.app-main-38:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.g18news.app-merged_res-36:/mipmap-hdpi_ic_launcher1.png.flat",
+        "source": "com.g18news.app-main-38:/mipmap-hdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "com.g18news.app-merged_res-36:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.g18news.app-main-38:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.g18news.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher1.png.flat",
+        "source": "com.g18news.app-main-38:/mipmap-xxxhdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "com.g18news.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.g18news.app-main-38:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.g18news.app-merged_res-36:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.g18news.app-main-38:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.g18news.app-merged_res-36:/mipmap-mdpi_ic_launcher1.png.flat",
+        "source": "com.g18news.app-main-38:/mipmap-mdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "com.g18news.app-merged_res-36:/mipmap-xhdpi_ic_launcher1.png.flat",
+        "source": "com.g18news.app-main-38:/mipmap-xhdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "com.g18news.app-merged_res-36:/mipmap-xxhdpi_ic_launcher1.png.flat",
+        "source": "com.g18news.app-main-38:/mipmap-xxhdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "com.g18news.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.g18news.app-main-38:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.g18news.app-merged_res-36:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.g18news.app-main-38:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.g18news.app-merged_res-36:/drawable_banner.png.flat",
+        "source": "com.g18news.app-main-38:/drawable/banner.png"
+    }
+]
